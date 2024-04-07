@@ -1,3 +1,4 @@
-include_directories(${PROJECT_SOURCE_DIR}/include)
-add_executable(example example.cpp)
-target_compile_options(example PRIVATE ${CMAKE_CXX_FLAGS})
+add_subdirectory(library)
+add_executable(main main.cpp)
+target_compile_options(main PRIVATE ${CMAKE_CXX_FLAGS})
+target_link_libraries(main library)
