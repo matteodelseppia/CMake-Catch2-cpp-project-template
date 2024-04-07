@@ -1,0 +1,5 @@
+/Users/matteodelseppia/Desktop/cpp_cmake_catch2_project_template/build/CMakeFiles/edit_cache.dir
+/Users/matteodelseppia/Desktop/cpp_cmake_catch2_project_template/build/CMakeFiles/rebuild_cache.dir
+/Users/matteodelseppia/Desktop/cpp_cmake_catch2_project_template/build/src/CMakeFiles/example.dir
+/Users/matteodelseppia/Desktop/cpp_cmake_catch2_project_template/build/src/CMakeFiles/edit_cache.dir
+/Users/matteodelseppia/Desktop/cpp_cmake_catch2_project_template/build/src/CMakeFiles/rebuild_cache.dir
