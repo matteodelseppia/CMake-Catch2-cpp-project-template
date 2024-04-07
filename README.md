@@ -1,0 +1,1 @@
+# cpp_cmake_catch2_project_template
