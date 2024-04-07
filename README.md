@@ -3,9 +3,9 @@
 To test that everything is okay, after cloning step into the directory and execute:
 
 ```
-    cmake -B build
-    cd build
-    make test
+cmake -B build
+cd build
+make test
 ```
 
 A single test should run and pass. If this does not work, there are probably issues with Catch2 dependencies.
