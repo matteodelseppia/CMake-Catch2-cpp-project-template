@@ -9,4 +9,4 @@ make
 make test
 ```
 
-A single test should run and pass. If this does not work, there are probably issues with Catch2 dependencies.
+A single test called **sum_test** should run and pass. If this does not work, there are probably issues with Catch2 dependencies.
