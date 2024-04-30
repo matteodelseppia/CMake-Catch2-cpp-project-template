@@ -3,7 +3,7 @@
 To test that everything is okay, clone the project, then step into the directory and execute
 
 ```bash
-cmake -B build
+cmake -Bbuild -DBUILD_TESTS=ON
 cd build
 make
 make test
